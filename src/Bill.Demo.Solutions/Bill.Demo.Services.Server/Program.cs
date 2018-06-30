@@ -39,7 +39,7 @@ namespace Bill.Demo.Services.Server
                     });
                 })
                 .SubscribeAt()
-                .UseLog4net("Configs/log4net.config")
+                //.UseLog4net("Configs/log4net.config") //Configuration=null 20180630
                 //.UseServer("127.0.0.1", 98)
                 //.UseServer("127.0.0.1", 98，“true”) //自动生成Token
                 //.UseServer("127.0.0.1", 98，“123456789”) //固定密码Token

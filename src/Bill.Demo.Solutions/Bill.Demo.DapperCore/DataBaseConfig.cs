@@ -15,7 +15,7 @@ namespace Bill.Demo.DapperCore
         /// <summary>
         /// 默认的Sql Server的链接字符串
         /// </summary>
-        private static string DefaultSqlConnectionString = @"Data Source=.;Initial Catalog=Test;User ID=sa;Password=123456;";
+        private static string DefaultSqlConnectionString = @"Data Source=.;Initial Catalog=AbpCoreAngularDb;User ID=sa;Password=!@#123;";
 
         public DataBaseConfig() {
            
