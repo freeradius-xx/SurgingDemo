@@ -15,37 +15,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.Demo.IModuleServices",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.Demo.ModuleServices", "Bill.Demo.ModuleServices\Bill.Demo.ModuleServices.csproj", "{9C532169-CD72-47B1-84CD-858528EC2034}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.System", "..\..\..\surging\src\Surging.Core\Surging.Core.System\Surging.Core.System.csproj", "{CBA80188-D073-4E43-BB53-D2BE5430A1A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.System", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.System\Surging.Core.System.csproj", "{CBA80188-D073-4E43-BB53-D2BE5430A1A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ProxyGenerator", "..\..\..\surging\src\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj", "{C6C3E0D9-0A5A-427F-89EF-17155167A4BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ProxyGenerator", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj", "{C6C3E0D9-0A5A-427F-89EF-17155167A4BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Caching", "..\..\..\surging\src\Surging.Core\Surging.Core.Caching\Surging.Core.Caching.csproj", "{1F4EA0CA-7761-40D2-B0F9-57A1ED4DCB7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Caching", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Caching\Surging.Core.Caching.csproj", "{1F4EA0CA-7761-40D2-B0F9-57A1ED4DCB7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.CPlatform", "..\..\..\surging\src\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj", "{F280B5BF-8BC3-4EE1-AFBF-A289D09EC56E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.CPlatform", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj", "{F280B5BF-8BC3-4EE1-AFBF-A289D09EC56E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ServiceHosting", "..\..\..\surging\src\Surging.Core\Surging.Core.ServiceHosting\Surging.Core.ServiceHosting.csproj", "{D4D7A355-5231-4D7B-B84D-F0FEE4B7E75D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ServiceHosting", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.ServiceHosting\Surging.Core.ServiceHosting.csproj", "{D4D7A355-5231-4D7B-B84D-F0FEE4B7E75D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ApiGateWay", "..\..\..\surging\src\Surging.Core\Surging.Core.ApiGateWay\Surging.Core.ApiGateWay.csproj", "{94BE501B-6FAD-496D-941A-117DF3981C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.ApiGateWay", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.ApiGateWay\Surging.Core.ApiGateWay.csproj", "{94BE501B-6FAD-496D-941A-117DF3981C14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Codec.MessagePack", "..\..\..\surging\src\Surging.Core\Surging.Core.Codec.MessagePack\Surging.Core.Codec.MessagePack.csproj", "{EC646745-B230-40E0-9898-34D74D135B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Codec.MessagePack", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Codec.MessagePack\Surging.Core.Codec.MessagePack.csproj", "{EC646745-B230-40E0-9898-34D74D135B88}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Codec.ProtoBuffer", "..\..\..\surging\src\Surging.Core\Surging.Core.Codec.ProtoBuffer\Surging.Core.Codec.ProtoBuffer.csproj", "{60B27219-0341-47A1-AC72-177D790C33F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Codec.ProtoBuffer", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Codec.ProtoBuffer\Surging.Core.Codec.ProtoBuffer.csproj", "{60B27219-0341-47A1-AC72-177D790C33F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Common", "..\..\..\surging\src\Surging.Core\Surging.Core.Common\Surging.Core.Common.csproj", "{FF570922-631A-4822-A37E-9492D39F2BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Common", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Common\Surging.Core.Common.csproj", "{FF570922-631A-4822-A37E-9492D39F2BA4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Consul", "..\..\..\surging\src\Surging.Core\Surging.Core.Consul\Surging.Core.Consul.csproj", "{976D6E6B-0845-4AB8-8321-1273C4E92857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Consul", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Consul\Surging.Core.Consul.csproj", "{976D6E6B-0845-4AB8-8321-1273C4E92857}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.DotNetty", "..\..\..\surging\src\Surging.Core\Surging.Core.DotNetty\Surging.Core.DotNetty.csproj", "{67997EDC-2D73-4698-B70E-093BA531BF7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.DotNetty", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.DotNetty\Surging.Core.DotNetty.csproj", "{67997EDC-2D73-4698-B70E-093BA531BF7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Log4net", "..\..\..\surging\src\Surging.Core\Surging.Core.Log4net\Surging.Core.Log4net.csproj", "{82729C0E-6713-44CB-BB03-BFCFC8974D3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Log4net", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Log4net\Surging.Core.Log4net.csproj", "{82729C0E-6713-44CB-BB03-BFCFC8974D3C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.EventBusRabbitMQ", "..\..\..\surging\src\Surging.Core\Surging.Core.EventBusRabbitMQ\Surging.Core.EventBusRabbitMQ.csproj", "{32F63363-B785-4480-8E46-1EFA068D5261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.EventBusRabbitMQ", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.EventBusRabbitMQ\Surging.Core.EventBusRabbitMQ.csproj", "{32F63363-B785-4480-8E46-1EFA068D5261}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.EventBusKafka", "..\..\..\surging\src\Surging.Core\Surging.Core.EventBusKafka\Surging.Core.EventBusKafka.csproj", "{3CD9F4ED-DA49-4C96-8A59-9DE2DE9D41EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.EventBusKafka", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.EventBusKafka\Surging.Core.EventBusKafka.csproj", "{3CD9F4ED-DA49-4C96-8A59-9DE2DE9D41EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Zookeeper", "..\..\..\surging\src\Surging.Core\Surging.Core.Zookeeper\Surging.Core.Zookeeper.csproj", "{037644CE-A28E-4371-89A1-2ABAD8B8BC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.Core.Zookeeper", "..\..\..\..\surging\trunk\src\Surging.Core\Surging.Core.Zookeeper\Surging.Core.Zookeeper.csproj", "{037644CE-A28E-4371-89A1-2ABAD8B8BC3D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.ApiGateway", "..\..\..\surging\src\Surging.ApiGateway\Surging.ApiGateway.csproj", "{77848D9B-C7C1-4525-9F70-92A80371FE0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Surging.ApiGateway", "..\..\..\..\surging\trunk\src\Surging.ApiGateway\Surging.ApiGateway.csproj", "{77848D9B-C7C1-4525-9F70-92A80371FE0D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bill.Demo.Core", "Bill.Demo.Core\Bill.Demo.Core.csproj", "{35682F55-327C-4462-B254-806F96F6E91E}"
 EndProject
