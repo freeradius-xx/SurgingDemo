@@ -31,14 +31,14 @@ namespace Bill.Demo.Services.Server
                         //option.UseZooKeeperManager(new ConfigInfo("127.0.0.1:2181"));
                         option.UseConsulManager(new ConfigInfo("127.0.0.1:8500"));
                         option.UseDotNettyTransport();
-                        option.UseRabbitMQTransport();
-                        option.AddRabbitMQAdapt();
+                        //option.UseRabbitMQTransport(); //comment by zjh on 20180704
+                        //option.AddRabbitMQAdapt(); //comment by zjh on 20180704
                         //option.UseProtoBufferCodec();
                         option.UseMessagePackCodec();
                         builder.Register(p => new CPlatformContainer(ServiceLocator.Current));
                     });
                 })
-                .SubscribeAt()
+                //.SubscribeAt() //comment by zjh on 20180704
                 //.UseLog4net("Configs/log4net.config") //Configuration=null 20180630
                 //.UseServer("127.0.0.1", 98)
                 //.UseServer("127.0.0.1", 98，“true”) //自动生成Token
